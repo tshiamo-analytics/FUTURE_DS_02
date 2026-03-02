@@ -59,17 +59,7 @@ This type of analysis is widely used in SaaS and subscription-based companies wh
 - Improve service quality or support for fiber optic customers.
 - Develop targeted retention campaigns for high-risk segments.
 
----
 
-## 📷 Dashboard Preview
-
-### Executive Overview
-![Executive Overview](dashboard_page1.png)
-
-### Retention Deep Dive
-![Retention Deep Dive](dashboard_page2.png)
-
----
 
 ## 🚀 Project Outcome
 
